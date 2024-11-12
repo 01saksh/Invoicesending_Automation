@@ -23,7 +23,7 @@ Sub SendEmailsFromSheet()
     Set ws = ThisWorkbook.Sheets("Sheet1") ' Change "Sheet1" to your actual sheet name
 
     ' Define the attachment folder path
-    AttachmentFolderPath = "C:\Users\ANAROCK\OneDrive - Anarock Property Consultants Pvt Ltd\Documents\Automatic email\Checking invoice\"
+    AttachmentFolderPath = "C:\Users\ANAROCK\your file name\"
 
     ' Define the file extension
     FileExtension = ".pdf" ' Change this to your actual file extension
